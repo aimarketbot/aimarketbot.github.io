@@ -588,7 +588,7 @@ class="post-68 page type-page status-publish ast-article-single" id="post-68" it
 <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Сохранить моё имя, email и адрес сайта в этом браузере для последующих моих комментариев.</label></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Отправить комментарий" /> <input type='hidden' name='comment_post_ID' value='68' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='23' />
-</p><input type="hidden" id="ak_js" name="ak_js" value="211"/><textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100" style="display: none !important;"></textarea></form>	</div><!-- #respond -->
+</p><input type="hidden" id="ak_js" name="ak_js" value="89"/><textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100" style="display: none !important;"></textarea></form>	</div><!-- #respond -->
 	
 	
 </div><!-- #comments -->
